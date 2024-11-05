@@ -49,7 +49,7 @@
             <img src="@/assets/images/logo/instagram.png" alt="Instagram" class="w-6 h-6" />
           </a>
           <a href="/" class="hover:filter hover:invert transition duration-200">
-            <img src="@/assets/images/logo/linkedin.png" alt="LinkedIn" class="w-6 h-6" />
+            <img src="@/assets/images/logo/linkedIn.png" alt="LinkedIn" class="w-6 h-6" />
           </a>
         </div>
       </div>
