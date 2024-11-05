@@ -21,7 +21,7 @@
   </li>
   <li>
     <a href="/">
-      <img src="@/assets/images/logo/linkedin.png" alt="LinkedIn" class="hover:opacity-75 transition duration-150 ease-in-out">
+      <img src="@/assets/images/logo/linkedIn.png" alt="LinkedIn" class="hover:opacity-75 transition duration-150 ease-in-out">
     </a>
   </li>
 </ul>
