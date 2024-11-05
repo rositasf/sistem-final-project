@@ -19,7 +19,8 @@ import SosmedContent from '@/components/SosmedContent.vue';
                 Hey there, I'm Andrew Jonhson and welcome to my Blog
               </h1>
               <p class="mt-6 mr-50 text-xl leading-10 text-x-mediumgrey max-w-5xl max-md:mr-2.5 max-md:max-w-full">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.
               </p>
               <main class="flex-col ml-2 mt-12 px[-3px] max-md:mt-9 max-md:max-w-fulll">
                 <slot><SosmedContent/></slot>

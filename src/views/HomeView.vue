@@ -235,11 +235,11 @@ const next = () => {
             <p class="text-x-mediumgrey text-opacity-60 text-sm leading-[20px]">We are</p>
             <h4 class="text-x-mediumgrey text-xl font-bold leading-[32px]">Featured in</h4>
           </div>
-          <img src="../assets/images/logo/logoipsum-1.png" alt="Logoipsum 1">
-          <img src="../assets/images/logo/logoipsum-2.png" alt="Logoipsum 2">
-          <img src="../assets/images/logo/logoipsum-3.png" alt="Logoipsum 3">
-          <img src="../assets/images/logo/logoipsum-4.png" alt="Logoipsum 4">
-          <img src="../assets/images/logo/logoipsum-5.png" alt="Logoipsum 5">
+          <img src="@/assets/images/logo/logoipsum-1.png" alt="Logoipsum 1">
+          <img src="@/assets/images/logo/logoipsum-2.png" alt="Logoipsum 2">
+          <img src="@/assets/images/logo/logoipsum-3.png" alt="Logoipsum 3">
+          <img src="@/assets/images/logo/logoipsum-4.png" alt="Logoipsum 4">
+          <img src="@/assets/images/logo/logoipsum-5.png" alt="Logoipsum 5">
       </div>
     </div>
 
@@ -254,7 +254,7 @@ const next = () => {
             <h4 class="text-x-black text-xl font-bold leading-[32px] pe-[56px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
             <div class="flex justify-between items-center"> 
               <div class="flex items-center justify-center gap-4">
-                <img src="../assets/images/misc/author1-jonathan.png" alt="Author Jonathan">
+                <img src="@/assets/images/misc/author1-jonathan.png" alt="Author Jonathan">
                 <div>
                   <h4 class="text-x-black text-xl font-bold leading-[32px]">Jonathan Vallen</h4>
                   <p class="text-x-mediumgrey leading-[28px]">New York, USA</p>

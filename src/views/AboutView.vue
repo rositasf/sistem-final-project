@@ -55,21 +55,43 @@ import SosmedContent from '@/components/SosmedContent.vue';
     <div class="max-w-[1280px] h-[441px] mx-auto relative">
       <div class="w-[1280px] h-[441px] left-0 top-0 absolute bg-x-lavender"></div>
       <div class="w-[516px] h-[249px] left-[108px] top-[128px] absolute">
-        <div class="left-[1px] top-0 absolute text-x-black text-base font-semibold  uppercase leading-tight tracking-[3px]">Our mision</div>
-        <div class="w-[481px] left-0 top-[44px] absolute text-x-black text-[28px] font-bold  leading-10">Creating valuable content for creatives all around the world</div>
-        <div class="w-[516px] h-[109px] left-0 top-[140px] absolute text-x-mediumgrey text-base font-normal  leading-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.</div>
+        <div class="left-[1px] top-0 absolute text-x-black text-base font-semibold  uppercase leading-tight tracking-[3px]">
+          Our mision
+        </div>
+        <div class="w-[481px] left-0 top-[44px] absolute text-x-black text-[28px] font-bold  leading-10">
+          Creating valuable content for creatives all around the world
+        </div>
+        <div class="w-[516px] h-[109px] left-0 top-[140px] absolute text-x-mediumgrey text-base font-normal  leading-7">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.
+        </div>
       </div>
       <div class="w-[516px] h-[249px] left-[656px] top-[128px] absolute">
-        <div class="left-[1px] top-0 absolute text-x-black text-base font-semibold  uppercase leading-tight tracking-[3px]">Our Vision</div>
-        <div class="w-[475px] left-0 top-[44px] absolute text-x-black text-[28px] font-bold  leading-10">A platform that empowers individuals to improve</div>
-        <div class="w-[516px] h-[109px] left-0 top-[140px] absolute text-x-mediumgre text-base font-normal  leading-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.</div>
+        <div class="left-[1px] top-0 absolute text-x-black text-base font-semibold  uppercase leading-tight tracking-[3px]">
+          Our Vision
+        </div>
+        <div class="w-[475px] left-0 top-[44px] absolute text-x-black text-[28px] font-bold  leading-10">
+          A platform that empowers individuals to improve
+        </div>
+        <div class="w-[516px] h-[109px] left-0 top-[140px] absolute text-x-mediumgre text-base font-normal  leading-7">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.
+        </div>
       </div>
     </div>
     <div class="max-w-[1280px] h-[480px] mx-auto mt-[100px] relative">
       <div class="w-[519px] h-[316px] left-0 top-[82px] absolute">
-        <div class="w-[444px] left-0 top-0 absolute text-x-black text-4xl font-bold  leading-[48px]">Our team of creatives</div>
-        <div class="w-[519px] left-0 top-[64px] absolute text-x-black text-2xl font-bold ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
-        <div class="w-[519px] left-0 top-[176px] absolute text-x-black text-base font-normal  leading-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</div>
+        <div class="w-[444px] left-0 top-0 absolute text-x-black text-4xl font-bold  leading-[48px]">
+          Our team of creatives
+        </div>
+        <div class="w-[519px] left-0 top-[64px] absolute text-x-black text-2xl font-bold ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+        </div>
+        <div class="w-[519px] left-0 top-[176px] absolute text-x-black text-base font-normal  leading-7">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+        </div>
       </div>
       <div class="w-[681px] h-[480px] left-[599px] top-0 absolute">
         <img class="w-[624px] h-[480px] left-[57px] top-0 absolute" src="@/assets/images/misc/about2.png" />
@@ -77,9 +99,17 @@ import SosmedContent from '@/components/SosmedContent.vue';
     </div>
     <div class="max-w-[1207px] h-[517px] mx-auto mt-[150px] relative">
       <div class="w-[519px] h-[316px] left-[688px] top-[82px] absolute">
-        <div class="w-[401px] left-0 top-0 absolute text-x-black text-[32px] font-bold  leading-[48px]">Why we started this Blog</div>
-        <div class="w-[511px] left-0 top-[64px] absolute text-x-black] text-2xl font-bold ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
-        <div class="w-[519px] left-0 top-[176px] absolute text-x-black text-base font-normal  leading-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</div>
+        <div class="w-[401px] left-0 top-0 absolute text-x-black text-[32px] font-bold  leading-[48px]">
+          Why we started this Blog
+        </div>
+        <div class="w-[511px] left-0 top-[64px] absolute text-x-black] text-2xl font-bold ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+        </div>
+        <div class="w-[519px] left-0 top-[176px] absolute text-x-black text-base font-normal  leading-7">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+          dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
+        </div>
       </div>
       <div class="w-[624px] h-[517px] left-0 top-0 absolute">
         <img class="w-[624px] h-[480px] left-0 top-0 absolute" src="@/assets/images/misc/about3.png" />

@@ -20,8 +20,8 @@ const routes = [
     component: BlogView,
   },
   {
-    path: '/blog-post',
-    name: 'blog-post',
+    path: '/post',
+    name: 'post',
     component: BlogPostView,
   },
   {
@@ -45,8 +45,8 @@ const routes = [
     component: ContactView,
   },
   {
-    path: '/privacy-policy',
-    name: 'privacy-policy',
+    path: '/policy',
+    name: 'policy',
     component: PrivacyPolicyView,
   },
 ];

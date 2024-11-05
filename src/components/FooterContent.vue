@@ -12,7 +12,7 @@
           <a href="/blog" class="hover:text-x-yellow active:text-gray-400">Blog</a>
           <a href="/about" class="hover:text-x-yellow active:text-gray-400">About us</a>
           <a href="/contact" class="hover:text-x-yellow active:text-gray-400">Contact us</a>
-          <a href="/privacy-policy" class="hover:text-x-yellow active:text-gray-400">Privacy Policy</a>
+          <a href="/policy" class="hover:text-x-yellow active:text-gray-400">Privacy Policy</a>
         </div>
       </div>
 

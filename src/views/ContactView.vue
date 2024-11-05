@@ -55,7 +55,9 @@ function updateCities() {
       <div class="pb-28">
         <h1 class="text-x-black text-base font-bold tracking-[3px] uppercase mb-2">Contact us</h1>
         <h2 class="text-x-black text-5xl font-bold tracking-tighter leading-none max-md:max-w-full max-md:text-4xl">Let’s Start a Conversation</h2>
-        <p class="text-x-mediumgrey text-base z-10 self-stretch mt-6 w-full leading-7 max-md:max-w-full">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p class="text-x-mediumgrey text-base z-10 self-stretch mt-6 w-full leading-7 max-md:max-w-full">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+        </p>
       </div>
       <div class="flex flex-col-2 p-20 gap-20 bg-x-yellow mb-8 w-full mx-auto">
         <div class="flex flex-col w-6/12 max-md:w-full text-left">
